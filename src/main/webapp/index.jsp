@@ -15,5 +15,11 @@
   <p>Computer Code (JavaScript)</p>
   <p>Live Data (Files and Databases)</p>
 
+  
+  <p>Pages </p>
+  <p>Style Sheets (CSS)</p>
+  <p>Computer Code (JavaScript)</p>
+  <p>Live Data (Files and Databases)</p>
+  
 </body>
 </html>
