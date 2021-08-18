@@ -13,13 +13,7 @@
   <h1>Welcome to AKBAR'S Software company</h1>
    <h2>Web Site Main Ingredients:</h2>
   <h2>Web Site Main Ingredients:</h2>
-  
-
-  
-   <h1>Welcome to AKBAR'S Software company</h1>
-  <h1>Welcome to AKBAR'S Software company</h1>
-  <h1>Welcome to AKBAR'S Software company</h1>
-  <h1>Welcome to AKBAR'S Software company</h1>
+ 
   
   
   <h2>Web Site Main Ingredients:</h2>
