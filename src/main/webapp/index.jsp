@@ -18,11 +18,7 @@
   <p>SonarQube</p>
   <p>Nexus</p>
   
-  <p>DevOps Tools</p>
-  <p>Jenkins</p>
-  <p>Maven</p>
-  <p>SonarQube</p>
-  <p>Nexus</p>
+ 
   
 </body>
 </html>
