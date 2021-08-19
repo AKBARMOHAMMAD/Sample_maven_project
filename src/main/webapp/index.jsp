@@ -7,33 +7,18 @@
 
 <body>
 
-  <h1>Welcome to AKBAR'S Software company</h1>
-  <h2>Web Site Main Ingredients:</h2>
-  <h1>Welcome to AKBAR'S Software company</h1>
-  <h1>Welcome to AKBAR'S Software company</h1>
-   <h2>Web Site Main Ingredients:</h2>
-  <h2>Web Site Main Ingredients:</h2>
- 
+  <h1>Welcome to Hyderbad</h1>
+  <h2>Welcome DevOps Tools:</h2>
   
   
-  <h2>Web Site Main Ingredients:</h2>
-  <h2>Web Site Main Ingredients:</h2>
-  <h2>Web Site Main Ingredients:</h2>
-  <h2>Web Site Main Ingredients:</h2>
-  
-  
-  <p>Pages (HTML)</p>
-  <p>Style Sheets (CSS)</p>
-  <p>Computer Code (JavaScript)</p>
-  <p>Live Data (Files and Databases)</p>
 
+  <p>DevOps Tools</p>
+  <p>Jenkins</p>
+  <p>Maven</p>
+  <p>SonarQube</p>
+  <p>Nexus</p>
   
-  <p>Pages </p>
-  
-   <p>Live Data (Files and Databases)</p>
-  <p>Style Sheets (CSS)</p>
-  <p>Computer Code (JavaScript)</p>
-  <p>Live Data (Files and Databases)</p>
+
   
 </body>
 </html>
