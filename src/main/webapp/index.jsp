@@ -37,11 +37,7 @@
   <p>Nexus</p>
   
   
-  <p>Nexus</p>
-  <p>Ansible</p>
-  <p>Kubernetes</p>
-   <p>Nexus</p>
-  <p>Akabr mohammad</p>
+
   
   
     <p>Jenkins</p>
