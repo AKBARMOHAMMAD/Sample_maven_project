@@ -42,6 +42,13 @@
   <p>Kubernetes</p>
    <p>Nexus</p>
   <p>Akabr mohammad</p>
+  
+  
+    <p>Jenkins</p>
+  <p>Maven</p>
+  <p>SonarQube</p>
+  <p>Nexus</p>
+  <p>Aspire</p>
  
   
 </body>
