@@ -10,7 +10,9 @@
   <h1>Welcome to Hyderbad</h1>
   <h2>Welcome DevOps Tools:</h2>
   
-  
+   <p>Nexus</p>
+  <p>Ansible</p>
+  <p>Kubernetes</p>
    <p>Nexus</p>
   <p>Ansible</p>
   <p>Kubernetes</p>
