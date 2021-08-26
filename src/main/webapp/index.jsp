@@ -26,7 +26,11 @@
   <p>Nexus</p>
   <p>Ansible</p>
   
-  
+    
+  <p>SonarQube</p>
+  <p>Nexus</p>
+  <p>Ansible</p>
+  <p>Aspire</p>
 
   
 
