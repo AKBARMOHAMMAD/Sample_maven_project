@@ -39,11 +39,7 @@
   
 
   
-  
-    <p>Jenkins</p>
-  <p>Maven</p>
-  <p>SonarQube</p>
-  <p>Nexus</p>
+
 
  
   
