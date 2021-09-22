@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!--<head>
+<head>
   <title>AKBAR MOHAMMAD</title>
 </head>
 <h1>welome</h1>
