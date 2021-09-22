@@ -3,10 +3,9 @@
 <!--<head>
   <title>AKBAR MOHAMMAD</title>
 </head>
-<<h1>welome</h1>-->
+<h1>welome</h1>
 <body>
-<<h1>welome</h1>
-<<h1>welome</h1><<h1>welome</h1>
+
   <h1>Welcome to Hyderbad</h1>
   <h2>Welcome DevOps Tools:</h2>
   
