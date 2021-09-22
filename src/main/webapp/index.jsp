@@ -3,7 +3,7 @@
 <head>
   <title>AKBAR MOHAMMAD</title>
 </head>
-<h1>welome</h1>
+
 <body>
 
   <h1>Welcome to Hyderbad</h1>
