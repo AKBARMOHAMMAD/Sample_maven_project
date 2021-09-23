@@ -12,10 +12,7 @@
    <p>Nexus</p>
   <p>Ansible</p>
   <p>Kubernetes</p>
-   <p>Nexus</p>
-  <p>Ansible</p>
-  <p>Kubernetes</p>
-   <p>Maven</p>
+
 
   
     <p>SonarQube</p>
