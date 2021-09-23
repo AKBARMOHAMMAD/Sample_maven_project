@@ -15,9 +15,7 @@
 
 
   
-    <p>SonarQube</p>
-  <p>Nexus</p>
-  <p>Ansible</p>
+ >
   <p>Aspire</p>
   <p>sonarqube-scanner</p>
 
